@@ -7,7 +7,7 @@ Modeling compounding word formation across languages. This code accompanies our 
 
 Clone this repo and do a `pip install . -e`. I'll eventually make this a registered Python package.
 
-Check `examples.py` for how to use this library!
+Check `examples.py` for how to use this library! You can download a dictionary from [here](https://cs.jhu.edu/~winston/compounds/wiktionary.tsv.gz).
 
 
 # Experiments and Demo
